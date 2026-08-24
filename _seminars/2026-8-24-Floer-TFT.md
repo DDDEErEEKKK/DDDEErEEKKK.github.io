@@ -12,7 +12,7 @@ This page serves as the homepage for our upcoming informal fall 2026 reading sem
 
 The seminar will run from August 24 to December 10, 2026, and will be organized as a slow, discussion-driven reading cycle. We will work through definitions, examples, and key constructions together, with an emphasis on understanding the geometric and topological meaning behind the algebraic machinery.
 
-The current plan is to begin with the basic language of bordism and cobordism, then move toward the functorial viewpoint of topological field theories, and finally connect these ideas to Floer-theoretic and related geometric constructions.
+The current plan is to begin with the basic language of cobordism, then move toward the functorial viewpoint of topological field theories, and finally connect these ideas to Floer-theoretic and related geometric constructions.
 
 ## Tentative Weekly Schedule
 
@@ -39,7 +39,7 @@ Weeks 1–5 constitute the common core; Weeks 6–12 are progressively more adva
 - **Theme:** Tangential structures, Thom spaces, and the passage from bordism groups to spectrum-level organization.
 - **References:**
   - [Dan Freed, Lecture 9: Tangential Structures](https://people.math.harvard.edu/~dafr/M392C-2012/Notes/lecture9.pdf)
-  - [Dan Freed, Lecture 10: Thom Spectra and \(X\)-Bordism](https://people.math.harvard.edu/~dafr/M392C-2012/Notes/lecture10.pdf)
+  - [Dan Freed, Lecture 10: Thom Spectra and X-Bordism](https://people.math.harvard.edu/~dafr/M392C-2012/Notes/lecture10.pdf)
   - [Dan Freed, Lecture 14: Bordism Categories](https://people.math.harvard.edu/~dafr/M392C-2012/Notes/lecture14.pdf)
 
 ### Week 3 — Atiyah–Segal axioms and TQFT
