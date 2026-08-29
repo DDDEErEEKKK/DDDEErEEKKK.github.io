@@ -10,7 +10,7 @@ redirect_from:
 ![宁拙毋巧，宁朴毋华 —— C. N. Yang](/images/CNYang.png)
 Favor substance over polish; plainness over flourish. (宁拙毋巧，宁朴毋华) —— C. N. Yang
 
-Hello! My name is Derek Zeng, and I am an undergraduate student at the University of Illinois at Urbana–Champaign, with a dual degree in Mathematics and Physics. My interests lie in geometry, topology, and mathematical physics—especially the topics related to symplectic geometry and quantum field theory. I also did some work on general physics (fluid dynamics, particle physics, gravity) on high school and first year in college.
+Hello! My name is Derek Zeng, and I am an undergraduate student at the University of Illinois at Urbana–Champaign, with a dual degree in Mathematics and Physics. My interests lie in geometry, topology, and mathematical physics—especially the relation between modern homotopy theory and differential geometry. I also did some work on general physics (fluid dynamics, particle physics, gravity) on high school and first year in college.
 
 This site is a place where I share my research, talks and presentations, reading seminars, personal notes, and projects. I hope these resources can inspire others who are exploring mathematics and physics.
 
@@ -24,5 +24,5 @@ Some Useful Links
 - [INSPIRE-HEP](https://inspirehep.net/)
 - An excellent [Knots Atlas](https://katlas.org/)
 - [SageMath](https://www.sagemath.org/) and an web interface [SageMathCell](https://sagecell.sagemath.org/)
-- [Kerodon](https://kerodon.net/)
+- [Kerodon](https://kerodon.net/), a nice literature about infinity categories.
 - [The Stacks Project](https://stacks.math.columbia.edu/)
