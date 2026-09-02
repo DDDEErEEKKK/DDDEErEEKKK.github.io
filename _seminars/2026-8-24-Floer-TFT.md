@@ -26,15 +26,19 @@ Each meeting will focus on a small collection of definitions, one principal theo
 
 Weeks 1–5 constitute the common core; Weeks 6–12 are progressively more advanced and may be adjusted according to the participants’ backgrounds.
 
-### Week 1 — Classical bordism and Pontryagin–Thom
+### Week 1 & 2 — Classical bordism and Pontryagin–Thom
 
 - **Theme:** Bordism groups, framed manifolds, and the relation between geometric bordisms and stable homotopy.
 - **References:**
   - [Dan Freed, *Bordism: Old and New*, Lectures 1–3](https://people.math.harvard.edu/~dafr/M392C-2012/index.html)
-  - [Dan Freed, Lecture 2: Orientations, Framings, and the Pontryagin–Thom Construction](https://people.math.harvard.edu/~dafr/M392C-2012/Notes/lecture2.pdf)
-  - [Dan Freed, Lecture 3: The Pontryagin–Thom Theorem](https://people.math.harvard.edu/~dafr/M392C-2012/Notes/lecture3.pdf)
 
-### Week 2 — Tangential structures and Thom spectra
+### Week 3 — Spectra and stabelization
+
+- **Theme:** Stabel version of Pontryagin-Thom construction and stable homotopy. Some aspectsd about classifying spaces, characteristic classes, and Thom isomorphisms.
+- - **References:**
+  - [Dan Freed, Lecture 4-9: Orientations, Framings, and the Pontryagin–Thom Construction](https://people.math.harvard.edu/~dafr/M392C-2012/index.html)
+
+### Week 4 — Tangential structures and Thom spectra
 
 - **Theme:** Tangential structures, Thom spaces, and the passage from bordism groups to spectrum-level organization.
 - **References:**
@@ -42,14 +46,14 @@ Weeks 1–5 constitute the common core; Weeks 6–12 are progressively more adva
   - [Dan Freed, Lecture 10: Thom Spectra and X-Bordism](https://people.math.harvard.edu/~dafr/M392C-2012/Notes/lecture10.pdf)
   - [Dan Freed, Lecture 14: Bordism Categories](https://people.math.harvard.edu/~dafr/M392C-2012/Notes/lecture14.pdf)
 
-### Week 3 — Atiyah–Segal axioms and TQFT
+### Week 5 — Atiyah–Segal axioms and TQFT
 
 - **Theme:** Symmetric monoidal categories, gluing, and the functorial description of topological field theories.
 - **References:**
   - [Michael Atiyah, *Topological Quantum Field Theories*](https://www.numdam.org/item/10.1007/BF02698547.pdf)
   - [Dan Freed, *Lectures on Topological Quantum Field Theory*](https://web.ma.utexas.edu/users/dafr/OldTQFTLectures.pdf)
 
-### Week 4 — Duality and one-dimensional TQFTs
+### Week 6 — Duality and one-dimensional TQFTs
 
 - **Theme:** Dualizable objects, evaluation/coevaluation bordisms, and the algebraic meaning of duality in field theories.
 - **References:**
@@ -57,21 +61,21 @@ Weeks 1–5 constitute the common core; Weeks 6–12 are progressively more adva
   - [Dan Freed, Lecture 16: One-Dimensional TQFTs](https://people.math.harvard.edu/~dafr/M392C-2012/Notes/lecture16.pdf)
   - [Jacob Lurie, *On the Classification of Topological Field Theories*, §1](https://arxiv.org/abs/0905.0465)
 
-### Week 5 — Morse–Cerf theory and 2D TQFTs
+### Week 7 — Morse–Cerf theory and 2D TQFTs
 
 - **Theme:** Morse functions, Cerf moves, and the relation between bordism decompositions and Frobenius algebra structures.
 - **References:**
   - [Dan Freed, Lecture 23: An Application of Morse–Cerf Theory](https://people.math.harvard.edu/~dafr/M392C-2012/Notes/lecture23.pdf)
   - [Joachim Kock, *Frobenius Algebras and 2D Topological Quantum Field Theories*](https://doi.org/10.1017/CBO9780511615443)
 
-### Week 6 — Cobordism categories and stable homotopy
+### Week 8 — Cobordism categories and stable homotopy
 
 - **Theme:** The homotopical structure of cobordism categories and the role of Thom spectra in classifying them.
 - **References:**
   - [Dan Freed, Lecture 20: Topological Bordism Categories](https://people.math.harvard.edu/~dafr/M392C-2012/Notes/lecture20.pdf)
   - [Galatius–Madsen–Tillmann–Weiss, *The Homotopy Type of the Cobordism Category*](https://arxiv.org/abs/math/0605249)
 
-### Week 7 — Extended field theories and the Cobordism Hypothesis
+### Week 9 — Extended field theories and the Cobordism Hypothesis
 
 - **Theme:** Higher bordism categories, dualizability, and the classification principle for extended TQFTs.
 - **References:**
@@ -79,14 +83,14 @@ Weeks 1–5 constitute the common core; Weeks 6–12 are progressively more adva
   - [Daniel Freed, *The Cobordism Hypothesis*](https://arxiv.org/abs/1210.5100)
   - [Jacob Lurie, *On the Classification of Topological Field Theories*, §§1–2](https://arxiv.org/abs/0905.0465)
 
-### Week 8 — Floer field philosophy and Cerf decompositions
+### Week 10 — Floer field philosophy and Cerf decompositions
 
 - **Theme:** Passing from bordism-based field theories to Floer-theoretic constructions via Cerf decompositions and symplectic categories.
 - **References:**
   - [Katrin Wehrheim, *Floer Field Philosophy*, §§2.1–2.4](https://arxiv.org/abs/1602.04908)
   - [Dan Freed, Lecture 23: An Application of Morse–Cerf Theory](https://people.math.harvard.edu/~dafr/M392C-2012/Notes/lecture23.pdf)
 
-### Week 9 — Lagrangian correspondences and gauge–Floer theory
+### Week 11 — Lagrangian correspondences and gauge–Floer theory
 
 - **Theme:** Geometric composition, Lagrangian correspondences, and the Atiyah–Floer viewpoint on field-theoretic assignments.
 - **References:**
@@ -94,7 +98,7 @@ Weeks 1–5 constitute the common core; Weeks 6–12 are progressively more adva
   - [Wehrheim–Woodward, *Functoriality for Lagrangian Correspondences in Floer Theory*](https://arxiv.org/abs/0708.2851)
   - [Michael Atiyah, *New Invariants of 3- and 4-Dimensional Manifolds*](https://math.berkeley.edu/~gbeiner/texts/Atiyah_Invariants.pdf)
 
-### Week 10 — Symplectic field theory and cobordism maps
+### Week 12 — Symplectic field theory and cobordism maps
 
 - **Theme:** Contact geometry, holomorphic curves, and the geometric origin of cobordism maps in symplectic field theory.
 - **References:**
@@ -102,7 +106,7 @@ Weeks 1–5 constitute the common core; Weeks 6–12 are progressively more adva
   - [Eliashberg–Givental–Hofer, *Introduction to Symplectic Field Theory*](https://arxiv.org/abs/math/0010059)
   - [John Pardon, *Contact Homology and Virtual Fundamental Cycles*](https://arxiv.org/abs/1508.03873)
 
-### Week 11 — Floer homotopy types and moduli spaces
+### Week 13 — Floer homotopy types and moduli spaces
 
 - **Theme:** Flow categories, framed moduli spaces, and the passage from Floer chain complexes to spectrum-valued invariants.
 - **References:**
@@ -110,7 +114,7 @@ Weeks 1–5 constitute the common core; Weeks 6–12 are progressively more adva
   - [Abouzaid–Blumberg, *Foundation of Floer Homotopy Theory I: Flow Categories*](https://arxiv.org/abs/2404.03193)
   - [John Pardon, *Representability in Non-linear Elliptic Fredholm Analysis*](https://arxiv.org/abs/2401.00184)
 
-### Week 12 — Toward spectral Floer field theories
+### Week 14 — Toward spectral Floer field theories
 
 - **Theme:** Synthesis of bordism, Floer theory, and flow-category/spectral viewpoints into a prospective field-theoretic framework.
 - **References:**
